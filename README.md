@@ -51,9 +51,6 @@ pip install openpyxl
 5. IP_LIST.xlsx파일 확인
 ```
 
-<br/>
-<br/>
-
 ## 👓 Screen
 
 <p>콘솔에서 정보수집 확인</p>
