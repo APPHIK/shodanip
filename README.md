@@ -8,16 +8,10 @@
 > -   IP, host, OS, 지역, 위치, 개방된 port, 취약점 번호(CVE) 수집
 > -   수집한 정보를 엑셀로 자동으로 결과 저장
 
-<br/>
-<br/>
-
 ## 📅 Date / Developer
 
 > -   2020.01.03 ~ 2020. 01.15 (2주)
 > -   1인 프로젝트
-
-<br/>
-<br/>
 
 ## 📌 Point
 
@@ -25,30 +19,18 @@
 > -   Shodan api
 > -   엑셀 자동 읽기/쓰기
 
-<br/>
-<br/>
-
 ## 🛠 Using Skill
 
 > -   Pyhon
-
-<br/>
-<br/>
 
 ## 🌐 News API
 
 > -   [shodan API](https://www.shodan.io/)
 
-<br/>
-<br/>
-
 ## 🔔 Alarm
 
 > -   본 프로젝트는 유료 apikey를 사용하였습니다.
 > -   api를 사용하기 위해서는 shodan 멤버십이 필요합니다.
-
-<br/>
-<br/>
 
 ## 🔧 How To Use?
 
